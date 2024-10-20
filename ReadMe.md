@@ -128,6 +128,15 @@ The core functionality of the project is to detect brand logos within images. Th
 - 
 ![image](https://github.com/user-attachments/assets/ff484302-bfe3-4011-9b7e-7e9f98518823)
 
+
+### IR Counting
+
+![ir_count_0](https://github.com/user-attachments/assets/a197d6d6-a8e0-400c-ac75-3be19923efe6)
+
+![ir_count_1](https://github.com/user-attachments/assets/8327fc1a-0f42-432d-a1c9-dca849c786ab)
+
+
+
 ---
 
 

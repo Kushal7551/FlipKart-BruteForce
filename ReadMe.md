@@ -16,3 +16,6 @@ This repository contains our solutions for the Flipkart Grid Challenge, addressi
 
 ## Solution:
 
+### Preprocessing Techniques for Image enhancement:
+
+

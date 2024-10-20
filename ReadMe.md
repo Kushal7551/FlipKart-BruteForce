@@ -2,10 +2,8 @@
 
 This repository contains our solutions for the Flipkart Grid Challenge, addressing a range of computer vision tasks including Optical Character Recognition (OCR), image recognition, and the freshness detection of produce.
 
-## Competition Overview
+## Format Overview
 
-
-## Tasks and Contributions
 
 | **Percentage** | **Task**                                    | **Details**                                                                 |
 |----------------|---------------------------------------------|-----------------------------------------------------------------------------|

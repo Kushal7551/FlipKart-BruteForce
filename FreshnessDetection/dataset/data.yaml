@@ -1,0 +1,5 @@
+train: /home/siddharth/Desktop/flipkartrobotics/dataset/train/images
+val: /home/siddharth/Desktop/flipkartrobotics/dataset/val/images
+
+nc: 1
+names: ['banana']

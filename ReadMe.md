@@ -124,6 +124,8 @@ The core functionality of the project is to detect brand logos within images. Th
 ### Yolov8 Counting Process & Verification with IR Sensor
 
 - To count the number of objects we use YOLO-v8, which classifies the object into one of the classes from the classes present in the COCO dataset. We count the bounding boxes with a confidence score of more than 75 percent. We verify this count using an LM-393 IR sensor which is attached to the conveyor belt as shown in the video. As the object crosses the sensor, the count is updated and displayed on a LCD display.
+
+- 
 ![image](https://github.com/user-attachments/assets/ff484302-bfe3-4011-9b7e-7e9f98518823)
 
 ---

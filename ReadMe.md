@@ -13,3 +13,6 @@ This repository contains our solutions for the Flipkart Grid Challenge, addressi
 | **40%**        | **Detecting Freshness of Fresh Produce**     | Predict the shelf life of fresh fruits and vegetables by assessing their freshness through visual cues and patterns. |
 
 ---
+
+## Solution:
+

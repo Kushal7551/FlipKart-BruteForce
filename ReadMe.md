@@ -18,6 +18,7 @@ This repository contains our solutions for the Flipkart Grid Challenge, addressi
 
 ## Task 1 & 2
 ### Preprocessing Techniques for Image enhancement:
+ The preprocessing pipeline uses multiple image processing techniques to improve image quality and structure, making it more suitable for OCR tasks. The steps include denoising, sharpening, scaling, binarization, border handling, and more.
 
 
 

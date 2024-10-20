@@ -68,8 +68,8 @@ OCR extracted(only few details extracted are shown here):
    * **INS 500 (i) Preservative:** (Percentage not specified)
    * **INS 202, N:** (Percentage not specified)
   
-## Task 3 : Brand Logo Detection using YOLOv8
-
+## Task 3 
+### Brand Logo Detection using YOLOv8
 ![test1_detected_logo](https://github.com/user-attachments/assets/5d38f070-27e0-4b28-9f6a-3eb3c1531188)
 
 This task provides a framework for brand logo detection using the YOLOv8 model, an advanced deep-learning framework for efficient object detection.

@@ -49,7 +49,7 @@ Method 2:
 
 ![final_preprocessed_image](https://github.com/user-attachments/assets/0f89231f-35f0-46fd-aedb-2bbb39d2882c)
 
-OCR extracted:
+OCR extracted(only few details extracted are shown here):
 1. **Brand Name:** The Baker's Dozen
 2. **Product Name:** Banana Walnut Cake
 3. **Manufacturing Date:** 10/09/24 (September 10, 2024)

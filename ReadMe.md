@@ -20,6 +20,26 @@ This repository contains our solutions for the Flipkart Grid Challenge, addressi
 ### Preprocessing Techniques for Image enhancement:
  The preprocessing pipeline uses multiple image processing techniques to improve image quality and structure, making it more suitable for OCR tasks. The steps include denoising, sharpening, scaling, binarization, border handling, and more.
 
+Method 1:
+1. *Image Loading*: Loads the image from the given path.
+2. *LAB Color Space Conversion*: Converts the image from the BGR color space to LAB, which separates the lightness (L) channel from the color (A and B) channels.
+3. *Contrast Limited Adaptive Histogram Equalization (CLAHE)*: Enhances the contrast of the image using CLAHE, applied only to the L channel (lightness) of the LAB image. CLAHE prevents over-amplifying noise while improving contrast in local regions of the image.
+4. *LAB to BGR Conversion*: Converts the LAB image back to BGR format after contrast enhancement.
+5. *Denoising*: Reduces noise using the Non-Local Means Denoising algorithm for colored images, preserving details while smoothing unwanted noise.
+6. *Image Sharpening*: A kernel-based sharpening filter is applied to enhance text and other important details in the image.
+7. *Saving the Preprocessed Image*: The final preprocessed image is saved to the specified output path.
+
+Method 2:
+1. *Image Loading and Alpha Channel Removal*: The image is loaded, and if it contains an alpha channel, it's converted to a standard RGB image.
+2. *Color Inversion*: The image colors are inverted using a bitwise NOT operation.
+3. *Rescaling*: The image is resized by 150% to improve OCR accuracy.
+4. *Binarization*: The image is converted to grayscale and then binarized using Otsu’s thresholding.
+5. *Noise Removal*: Morphological transformations (dilation and erosion) are applied to remove noise.
+6. *Dilation and Erosion*: These operations are used to enhance text features.
+7. *Border Removal*: Borders around the document or text are removed using contour detection.
+8. *Border Addition*: Additional borders are added to ensure no text is cropped.
+9. (Optional) *Deskewing*: Skew angle detection and correction to straighten tilted images.
+
 
 
 ### original image 
@@ -46,7 +66,12 @@ OCR extracted:
    * **Raisins:** (Percentage not specified)
    * **Agen:** (Percentage not specified)
    * **INS 500 (i) Preservative:** (Percentage not specified)
-   * **INS 202, N:** (Percentage not specified) 
+   * **INS 202, N:** (Percentage not specified)
+  
+## Task 3
+
+![test1_detected_logo](https://github.com/user-attachments/assets/5d38f070-27e0-4b28-9f6a-3eb3c1531188)
+
 
 
 

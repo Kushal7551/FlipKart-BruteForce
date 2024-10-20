@@ -42,7 +42,7 @@ Method 2:
 
 
 
-### original image 
+
 
 # OCR-based Content Extraction using PaddleOCR and Gemini API
 
@@ -62,11 +62,15 @@ This project uses **PaddleOCR** to extract text from images and the **Gemini API
 - **Brand Name**: XYZ Corp.
 - **Expiry Date**: 12/31/2025
 
-![original_image](https://github.com/user-attachments/assets/5c0c1efc-51e3-4cd4-a408-0ac30f98d623)
 
-### preprocessed image
+### original image 
+![trail1](https://github.com/user-attachments/assets/5f6329cb-9a7b-4613-82d0-8769c55c4b8b)
 
-![final_preprocessed_image](https://github.com/user-attachments/assets/0f89231f-35f0-46fd-aedb-2bbb39d2882c)
+
+### Preprocessed image
+
+![trial2](https://github.com/user-attachments/assets/ffe612ee-8f85-4fac-91ed-841d8563faf5)
+
 
 OCR extracted(only few details extracted are shown here):
 1. **Brand Name:** The Baker's Dozen

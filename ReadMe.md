@@ -119,11 +119,11 @@ The core functionality of the project is to detect brand logos within images. Th
 
 #### Inference Process
 
-- By running the detection script, users can leverage the power of YOLOv8 to perform inference on images containing brand logos. The model processes the input image and outputs the detected logos, demonstrating its ability to accurately identify and localize logos in diverse contexts.
+- By running the detection script, users can leverage the power of YOLOv8 to perform inference on images containing brand logos. The model processes the input image and outputs the detected logos, demonstrating its ability to identify and localize logos in diverse contexts accurately.
 
-### Yolov8 Counting Process
+### Yolov8 Counting Process & Verification with IR Sensor
 
-- To count the number of objects we use YOLO-v8,it classifies the object into one of the class from the classes present in the COCO dataset. We count the bounding boxes which have the confidence score more than 75 percent.
+- To count the number of objects we use YOLO-v8, which classifies the object into one of the classes from the classes present in the COCO dataset. We count the bounding boxes with a confidence score of more than 75 percent. We verify this count using an LM-393 IR sensor which is attached to the conveyor belt as shown in the video. As the object crosses the sensor, the count is updated and displayed on a LCD display.
 
 ---
 

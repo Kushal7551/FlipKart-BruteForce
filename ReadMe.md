@@ -43,6 +43,25 @@ Method 2:
 
 
 ### original image 
+
+# OCR-based Content Extraction using PaddleOCR and Gemini API
+
+This project uses **PaddleOCR** to extract text from images and the **Gemini API** to process and display specific content such as brand names, expiry dates, and other key details. 
+
+### Key Features:
+- **Text detection and recognition** via PaddleOCR.
+- **Content extraction** (e.g., brand names, expiry dates) using the Gemini API.
+- Clean and structured output display.
+
+### Requirements:
+- Python 3.7+
+- PaddleOCR and PaddlePaddle libraries
+- Gemini API key for content extraction
+
+### Example Output:
+- **Brand Name**: XYZ Corp.
+- **Expiry Date**: 12/31/2025
+
 ![original_image](https://github.com/user-attachments/assets/5c0c1efc-51e3-4cd4-a408-0ac30f98d623)
 
 ### preprocessed image

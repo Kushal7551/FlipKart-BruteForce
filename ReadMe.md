@@ -69,7 +69,8 @@ This project uses **PaddleOCR** to extract text from images and the **Gemini API
 
 ### Preprocessed image
 
-![trial2](https://github.com/user-attachments/assets/ffe612ee-8f85-4fac-91ed-841d8563faf5)
+
+![WhatsApp Image 2024-10-20 at 7 55 25 PM](https://github.com/user-attachments/assets/2ecd2a15-1f02-4a3f-9a80-5dd6d38f5c5d)
 
 
 OCR extracted(only few details extracted are shown here):

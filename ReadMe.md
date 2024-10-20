@@ -68,10 +68,49 @@ OCR extracted(only few details extracted are shown here):
    * **INS 500 (i) Preservative:** (Percentage not specified)
    * **INS 202, N:** (Percentage not specified)
   
-## Task 3
+## Task 3 : Brand Logo Detection using YOLOv8
 
 ![test1_detected_logo](https://github.com/user-attachments/assets/5d38f070-27e0-4b28-9f6a-3eb3c1531188)
 
+This task provides a framework for brand logo detection using the YOLOv8 model, an advanced deep-learning framework for efficient object detection.
+
+## Table of Contents
+
+- [Summary of Work Done](#summary-of-work-done)
+- [Installation Process](#installation-process)
+- [Brand-Logo Detection](#brand-logo-detection)
+  - [Inference Process](#inference-process)
+- [Additional Resources](#additional-resources)
+
+---
+
+## Summary of Work Done
+
+The project focuses on detecting brand logos within images using the YOLOv8 model.
+
+### Installation Process
+
+1. **Environment Setup**: The project requires a specific version of PyTorch along with related libraries like torchvision and torchaudio, which can be installed using `pip`. The command provided installs the necessary packages while ensuring compatibility with CUDA 11.6, which is important for utilizing GPU acceleration.
+
+2. **Dependencies**: All other required libraries are installed from a `requirements.txt` file, simplifying the setup process.
+
+3. **Model Weights Download**: The project includes pre-trained model weights that are crucial for brand logo detection. These weights are downloaded from provided links and organized into directories for easy access during inference.
+
+---
+
+## Brand-Logo Detection
+
+The core functionality of the project is to detect brand logos within images. This is accomplished by executing a specific Python script, `main_detection_yolov8.py`, with parameters that specify the model to use and the image to analyze. The results of the detection are saved in a designated results directory.
+
+### Inference Process
+
+- By running the detection script, users can leverage the power of YOLOv8 to perform inference on images containing brand logos. The model processes the input image and outputs the detected logos, demonstrating its ability to accurately identify and localize logos in diverse contexts.
+
+---
+
+## Additional Resources
+
+For more in-depth information regarding configurations, specific implementations, and the overall workflow, please refer to the **Brand-Detection-Task3** folder, which contains additional documentation and resources related to the project.
 
 
 

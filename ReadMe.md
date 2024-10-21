@@ -136,6 +136,31 @@ The core functionality of the project is to detect brand logos within images. Th
 ![ir_count_1](https://github.com/user-attachments/assets/8327fc1a-0f42-432d-a1c9-dca849c786ab)
 
 
+## TASK 4
+
+### Dataset Preparation:
+Method 1:
+Prepared the dataset using a hardware setup which automatically clicks photos every 15 min for 7 days using Raspberry Pi based camera module.
+
+![setup](https://github.com/user-attachments/assets/01982ceb-2a89-4f95-9df9-cd7f09e4d518)
+
+Method 2 :
+Used a time lapse video available on internet and segmented frames for different stages of the fruit’s life cycle.
+
+### Solution
+Used Yolo-v8 , Pretrained Alexnet with transfer learning to predict freshness index.Created a regression based freshness score (exponential) where 0 indicates the most fresh and 100 indicates rotten fruit.
+
+![image](https://github.com/user-attachments/assets/589c4be1-50dd-47c9-9a4e-88d6e6fa66cc)
+
+Here 64.32 means it should be consumed as soon as possible while other banana with 29 score means it has time to get rotten.
+
+
+
+
+
+
+
+
 
 ---
 

@@ -234,5 +234,7 @@ Some Results:
    
 
 #### Approach 2
-  <img width="2155" alt="Drawing (2)" src="https://github.com/user-attachments/assets/4ebf6a73-262e-4419-bf2f-a486c663d1e3" />
+<img width="2161" alt="Drawing (3)" src="https://github.com/user-attachments/assets/b3fbeb91-f222-4404-aaf2-41b5f890569a" />
+
+ 
 </details>

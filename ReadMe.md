@@ -187,6 +187,16 @@ Some Results:
  
  ![yolo_arch](https://github.com/user-attachments/assets/14f3ebf1-238f-4627-a7ba-9aab19326591)
 
+ Some Results:
+ 
+![yolo_counting](https://github.com/user-attachments/assets/073acee2-26bc-43a6-b400-b69f4a206f04)
+
+Some failure:
+
+![yolo_count1](https://github.com/user-attachments/assets/eb229a7c-7815-4c50-b8f8-9e1e6e1dc333)
+
+
+
  
  
  #### Approach 2

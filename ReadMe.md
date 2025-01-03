@@ -199,6 +199,8 @@ Some failure:
  
  #### Approach 2
 
+ ##### VQA
+
  ![architecture](https://github.com/user-attachments/assets/9f2dc237-fec3-41c6-8d1c-e03534331e67)
 
  
@@ -223,11 +225,10 @@ Used a time lapse video available on internet and segmented frames for different
 
    
 
+
+
+
 #### Approach 1
-<img width="2161" alt="Drawing (3)" src="https://github.com/user-attachments/assets/b3fbeb91-f222-4404-aaf2-41b5f890569a" />
-
-
-#### Approach 2
 
 Created a regression based freshness score (exponential) where 0 indicates the most fresh and 100 indicates rotten fruit.
 
@@ -236,6 +237,9 @@ Created a regression based freshness score (exponential) where 0 indicates the m
 Some Results:
 
 ![test_fruit_alexnet](https://github.com/user-attachments/assets/0040319a-5963-48ae-b830-6601e0ac2582)
+
+#### Approach 2
+<img width="2161" alt="Drawing (3)" src="https://github.com/user-attachments/assets/b3fbeb91-f222-4404-aaf2-41b5f890569a" />
 
  
 </details>

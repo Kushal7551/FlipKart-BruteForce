@@ -165,10 +165,6 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
  ### Brand Recoginition and Expiry Details
 
  #### Approach 1
-
- <img width="2171" alt="Drawing" src="https://github.com/user-attachments/assets/f1ab3c29-fd41-4d67-91a2-12d91ef2c432" />
-
- #### Approach 2
  
 ![old_arch](https://github.com/user-attachments/assets/7340ab43-8519-48c3-a2a1-99ed8e61d178)
 
@@ -177,6 +173,10 @@ Some Results:
 ![brand_appr_result1](https://github.com/user-attachments/assets/2a4fada5-df6a-4cfd-b660-4a1329b3ab68)
 
 ![brand_appr_result2](https://github.com/user-attachments/assets/abaf647e-d2aa-487c-a6a6-253e97cca8b8)
+
+#### Approach 2
+
+ <img width="2171" alt="Drawing" src="https://github.com/user-attachments/assets/f1ab3c29-fd41-4d67-91a2-12d91ef2c432" />
 
 
 
@@ -221,7 +221,13 @@ Used a time lapse video available on internet and segmented frames for different
 ![time_lapse](https://github.com/user-attachments/assets/7c235cdd-2069-4929-b684-cbf9b5295f7d)
 
 
+   
+
 #### Approach 1
+<img width="2161" alt="Drawing (3)" src="https://github.com/user-attachments/assets/b3fbeb91-f222-4404-aaf2-41b5f890569a" />
+
+
+#### Approach 2
 
 Created a regression based freshness score (exponential) where 0 indicates the most fresh and 100 indicates rotten fruit.
 
@@ -230,11 +236,6 @@ Created a regression based freshness score (exponential) where 0 indicates the m
 Some Results:
 
 ![test_fruit_alexnet](https://github.com/user-attachments/assets/0040319a-5963-48ae-b830-6601e0ac2582)
-
-   
-
-#### Approach 2
-<img width="2161" alt="Drawing (3)" src="https://github.com/user-attachments/assets/b3fbeb91-f222-4404-aaf2-41b5f890569a" />
 
  
 </details>

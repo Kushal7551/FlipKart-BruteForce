@@ -173,6 +173,13 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
 ![old_arch](https://github.com/user-attachments/assets/7340ab43-8519-48c3-a2a1-99ed8e61d178)
 
 
+ ### Item Counting
+
+ #### Approach 1
+ 
+ 
+ 
+ #### Approach 2
  
 
 

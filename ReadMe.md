@@ -164,6 +164,8 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
 
  ### Brand Recoginition and Expiry Details
 
+ #### Approach 1
+
  <img width="2171" alt="Drawing" src="https://github.com/user-attachments/assets/f1ab3c29-fd41-4d67-91a2-12d91ef2c432" />
 
 

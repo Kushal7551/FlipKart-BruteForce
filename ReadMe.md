@@ -221,7 +221,14 @@ Used a time lapse video available on internet and segmented frames for different
 
 
 #### Approach 1
+
+Created a regression based freshness score (exponential) where 0 indicates the most fresh and 100 indicates rotten fruit.
+
 <img width="1803" alt="Drawing (1)" src="https://github.com/user-attachments/assets/2eea3ce6-7352-4d56-a41c-7ec11dc7b7bc" />
+
+Some Results:
+
+![test_fruit_alexnet](https://github.com/user-attachments/assets/0040319a-5963-48ae-b830-6601e0ac2582)
 
      
 #### Approach 2

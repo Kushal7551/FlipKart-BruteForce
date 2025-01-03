@@ -162,6 +162,9 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
 <details>
  <summary> CURRENT WORK </summary>
 
+ #### Preprocessing
+ LAB color space, Binarisation(Segmentation), non-local means denoising, CLAHE, Dilation and Erosion(Noise Removal) for enhancing quality of images.
+
  ### Brand Recoginition and Expiry Details
 
  #### Approach 1

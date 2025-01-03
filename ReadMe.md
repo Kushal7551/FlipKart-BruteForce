@@ -204,6 +204,19 @@ Some failure:
  
 ### Freshness Detection
 
+#### Dataset preparation:
+
+Method1:
+
+Prepared the dataset using a hardware setup which automatically clicks photos
+![gas_setup](https://github.com/user-attachments/assets/297bec73-952c-4f39-9c31-ccad66f096fe)
+
+
+Another Method:
+Used a time lapse video available on internet and segmented frames for different stages of the fruit’s life cycle.
+
+
+
 #### Approach 1
 <img width="1803" alt="Drawing (1)" src="https://github.com/user-attachments/assets/2eea3ce6-7352-4d56-a41c-7ec11dc7b7bc" />
 

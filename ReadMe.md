@@ -168,5 +168,11 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
 
  <img width="2171" alt="Drawing" src="https://github.com/user-attachments/assets/f1ab3c29-fd41-4d67-91a2-12d91ef2c432" />
 
+ #### Approach 2
+ 
+![old_arch](https://github.com/user-attachments/assets/8b9f40fe-1ddf-44a8-a798-9faae677b010)
+
+ 
+
 
 </details>

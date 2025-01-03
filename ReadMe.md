@@ -13,11 +13,8 @@ This repository contains our solutions for the Flipkart Grid Challenge, addressi
 | **40%**        | **Detecting Freshness of Fresh Produce**     | Predict the shelf life of fresh fruits and vegetables by assessing their freshness through visual cues and patterns. |
 
 ---
-##  RECENT WORK
-
-
-
-##  OLD WORK:Solution:
+<details>
+<summary> OLD WORK </summary>
 
 ## Task 1 & 2
 ### Preprocessing Techniques for Image enhancement:
@@ -159,13 +156,7 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
 
 
 
-
-
-
-
-
-
 ---
-
+</details>
 
 

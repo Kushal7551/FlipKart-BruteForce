@@ -230,6 +230,8 @@ Some Results:
 
 ![test_fruit_alexnet](https://github.com/user-attachments/assets/0040319a-5963-48ae-b830-6601e0ac2582)
 
-     
+   
+
 #### Approach 2
+  <img width="2155" alt="Drawing (2)" src="https://github.com/user-attachments/assets/4ebf6a73-262e-4419-bf2f-a486c663d1e3" />
 </details>

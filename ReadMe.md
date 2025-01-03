@@ -196,8 +196,6 @@ Some failure:
 ![yolo_count1](https://github.com/user-attachments/assets/eb229a7c-7815-4c50-b8f8-9e1e6e1dc333)
 
 
-
- 
  
  #### Approach 2
 
@@ -207,6 +205,8 @@ Some failure:
 ### Freshness Detection
 
 #### Approach 1
+<img width="1803" alt="Drawing (1)" src="https://github.com/user-attachments/assets/2eea3ce6-7352-4d56-a41c-7ec11dc7b7bc" />
+
      
 #### Approach 2
 </details>

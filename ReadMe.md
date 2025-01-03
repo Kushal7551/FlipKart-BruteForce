@@ -200,6 +200,9 @@ Some failure:
  
  
  #### Approach 2
+
+ ![architecture](https://github.com/user-attachments/assets/9f2dc237-fec3-41c6-8d1c-e03534331e67)
+
  
 ### Freshness Detection
 

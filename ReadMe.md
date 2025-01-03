@@ -176,7 +176,10 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
  ### Item Counting
 
  #### Approach 1
+ Finetuned YOLOv11 with custom dataset
  
+ ![yolo_arch](https://github.com/user-attachments/assets/14f3ebf1-238f-4627-a7ba-9aab19326591)
+
  
  
  #### Approach 2

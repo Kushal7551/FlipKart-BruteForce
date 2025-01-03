@@ -206,7 +206,7 @@ Some failure:
 
 #### Dataset preparation:
 
-Method1:
+##### Method1:
 
 Prepared the dataset using a hardware setup which automatically clicks photos
 ![gas_setup](https://github.com/user-attachments/assets/297bec73-952c-4f39-9c31-ccad66f096fe)
@@ -214,7 +214,8 @@ Prepared the dataset using a hardware setup which automatically clicks photos
 ![gas_setup_fruits](https://github.com/user-attachments/assets/de03e9ca-a8f5-47e3-98a6-f10978bd7096)
 
 
-Another Method:
+######  Method 2:
+
 Used a time lapse video available on internet and segmented frames for different stages of the fruit’s life cycle.
 
 ![time_lapse](https://github.com/user-attachments/assets/7c235cdd-2069-4929-b684-cbf9b5295f7d)

@@ -184,6 +184,9 @@ Here 64.32 means it should be consumed as soon as possible while other banana wi
  
  #### Approach 2
  
+### Freshness Detection
 
-
+#### Approach 1
+     
+#### Approach 2
 </details>
